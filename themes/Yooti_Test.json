@@ -49,8 +49,8 @@
             "#f2f3f5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000",
-            "#ffffff"
+            "#171717",
+            "#ebedef"
         ],
         "BACKGROUND_TERTIARY": [
             "#121212",
@@ -65,8 +65,8 @@
             "#f8f9f9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#171717",
-            "#ffffff"
+            "#202029",
+            "#f8f9f9"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#202029",
@@ -181,4 +181,4 @@
     "mentionLineColor": "#979BF6",
     "customOverlays": true,
     "spec": 2
-   }
+}
