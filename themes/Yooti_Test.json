@@ -22,7 +22,7 @@
     "CHANNEL_ICON": ["#485673"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffffff"],
     "CHAT_BACKGROUND": ["#0c1221"],
-    "TEXT_NORMAL": ["#0E0E52"],
+    "TEXT_NORMAL": ["#E8C2CA"],
     "TEXT_LINK": ["#04d1ca"],
     "TEXT_MUTED": ["#485673"],
     "TEXT_DANGER":["#a10000"],
