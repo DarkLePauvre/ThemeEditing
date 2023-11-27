@@ -170,7 +170,7 @@
         "icons":{
           "ic_new_pins":["#979BF6"],
           "StatusStreaming": ["#176087"],
-          "StatusMobileOnline": ["#43b581"],
+          "StatusMobileOnline": ["#176087"],
           "StatusIdle": ["#faa61a"],
           "StatusDND": ["#f04747"],
           "StatusOffline": ["#636b75"],
