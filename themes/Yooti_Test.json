@@ -22,11 +22,11 @@
     "CHANNEL_ICON": ["#485673"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffffff"],
     "CHAT_BACKGROUND": ["#0c1221"],
-    "TEXT_NORMAL": ["#E8C2CA"],
+    "TEXT_NORMAL": ["#A13D63"],
     "TEXT_LINK": ["#a45f8a"],
     "TEXT_MUTED": ["#e6e6e6"],
     "TEXT_DANGER":["#a10000"],
-    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#7180B9"],
     "INTERACTIVE_MUTED": ["#485673"],
     "INTERACTIVE_NORMAL": ["#6788db"]
   },
