@@ -61,7 +61,7 @@
             "#747f8d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#202029",
+            "#FEDC97",
             "#f8f9f9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
@@ -133,7 +133,7 @@
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#202029",
+            "#FEDC97",
             "#202029"
         ]
   }, 
